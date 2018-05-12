@@ -1,0 +1,37 @@
+_repo: The-Two-Elsies--13-A-Sequel-to-Elsie-at-Nantucket_13379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: Cover; The Two Elsies; Copyright; CHAPTER I; CHAPTER II; CHAPTER III;
+  CHAPTER IV; CHAPTER V; CHAPTER VI; CHAPTER VII; CHAPTER VIII; CHAPTER IX; CHAPTER
+  X; CHAPTER XI; CHAPTER XII; CHAPTER XIII; CHAPTER XIV; CHAPTER XV; CHAPTER XVI;
+  CHAPTER XVII; CHAPTER XVIII; CHAPTER XIX; CHAPTER XX; CHAPTER XXI.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+title: "The Two Elsies\r\nA Sequel to Elsie at Nantucket"
+url: http://www.gutenberg.org/ebooks/13379
